@@ -68,6 +68,8 @@ export default function SiteFooter() {
       </div>
       <div className="border-t border-primary/20 py-6 text-center text-sm text-foreground/60 bg-gradient-to-r from-transparent via-primary/5 to-transparent font-medium">
         © 2024 Azorix Embedded. All rights reserved.
+        <br/>
+        Designed and Developed by Axisphere Mediaworx
       </div>
     </footer>
   );
